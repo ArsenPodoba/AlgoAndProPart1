@@ -62,5 +62,6 @@ int main (void)
         arr2[k] = arr1[k+d];
         
         printf("%i\n", arr2[k]);
-    }   
+    }
+    return 0;
 }
