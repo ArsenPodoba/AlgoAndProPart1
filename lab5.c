@@ -58,4 +58,5 @@ int main (void)
         }
         printf("Number of element %i column, which biger then average 1 column: %i\n", i + 1, c);
     }
+	return 0;
 }
