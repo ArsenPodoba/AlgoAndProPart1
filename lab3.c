@@ -55,4 +55,5 @@ int main (void)
                   
         printf("S1: %Lf S2: %Lf\n", z, k);        
     }
+    return 0;
 }
