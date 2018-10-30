@@ -31,7 +31,6 @@ int main (void)
             }   
             k = 0;
         }    
-        
     }
     
     for(int i = 0; i < len; i++)
@@ -46,8 +45,7 @@ int main (void)
                 end_min = i;
             }   
             p = 0;
-        }    
-        
+        }         
     }
     
     for(int i = 0; i < min; i++)
