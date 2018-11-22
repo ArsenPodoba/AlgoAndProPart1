@@ -57,4 +57,6 @@ int main (void)
     num = check(numbers);
     
     printf("Number of odd numbers: %i\n", num);
+    
+    return 0;
 }
